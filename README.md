@@ -2,6 +2,11 @@
 react hooks+redux+immutable.js
 
 ```
+npm start
+```
+
+
+```
 ├─api                   // 网路请求代码、工具类函数和相关配置
 ├─application           // 项目核心功能
 ├─assets                // 字体配置及全局样式
