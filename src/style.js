@@ -1,4 +1,4 @@
-import { createGlobalStyle } from'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 	html, body, div, span, applet, object, iframe,
@@ -29,7 +29,7 @@ export const GlobalStyle = createGlobalStyle`
 	body {
 		line-height: 1;
 	}
-	html, body {
+	html, body{
 		background: #f2f3f4;;
 	}
 	ol, ul {
@@ -47,8 +47,8 @@ export const GlobalStyle = createGlobalStyle`
 		border-collapse: collapse;
 		border-spacing: 0;
 	}
-	a {
+	a{
 		text-decoration: none;
 		color: #fff;
 	}
-`
+`;
